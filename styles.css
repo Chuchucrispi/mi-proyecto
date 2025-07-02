@@ -1,3 +1,14 @@
-h2 {
-    color: aqua;
+header {
+    text-align: center;
+    background-color: #F2C641;
+}
+
+h1 {
+    font-family: "PT Serif", sans-serif;
+
+}
+
+#Nombre {
+    font-family: "PT Serif" sans-serif;
+    font-size: 40px;
 }
